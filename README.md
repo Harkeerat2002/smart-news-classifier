@@ -16,6 +16,12 @@ This is a real-time news aggregation system that fetches IT-related news from th
 - **Duplicate Protection:** Prevents the same article from being saved twice using URL uniqueness.
 - **REST API:** Fully documented API built with FastAPI.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/cef97259-1113-4fc8-93de-02eb275b4025
+
+
 
 ## Setup Instructions
 
@@ -44,7 +50,7 @@ This is a real-time news aggregation system that fetches IT-related news from th
    ```bash
    uvicorn app.main:app --reload
    ```
-6. The API will start at http://127.0.0.1:8000.
+6. The API will start at http://127.0.0.1:8000/docs.
 
 ### Testing
 
