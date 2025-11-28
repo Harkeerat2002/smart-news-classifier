@@ -1,4 +1,11 @@
 # Nexthink Newsfeed API
+<div align="center">
+
+| Student's name          | Purpose |
+| ----------------------- | ------ |
+| Harkeerat Singh Sawhney | Internship |
+
+</div>
 
 This is a real-time news aggregation system that fetches IT-related news from the RSS feeds of 3 sources. This uses an LLM (OpenAI) to classify them into specific categories, and then a search API is provided through FastAPI to query the stored articles.
 
