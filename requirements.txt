@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+feedparser
+requests
+openai
+python-dotenv
+pytest
+httpx
+app
